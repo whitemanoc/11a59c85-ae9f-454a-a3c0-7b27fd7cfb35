@@ -1,0 +1,16 @@
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\bin\Debug\net5.0\CodingChallenge.exe
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\bin\Debug\net5.0\CodingChallenge.deps.json
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\bin\Debug\net5.0\CodingChallenge.runtimeconfig.json
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\bin\Debug\net5.0\CodingChallenge.runtimeconfig.dev.json
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\bin\Debug\net5.0\CodingChallenge.dll
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\bin\Debug\net5.0\ref\CodingChallenge.dll
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\bin\Debug\net5.0\CodingChallenge.pdb
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\CodingChallenge.csproj.AssemblyReference.cache
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\CodingChallenge.AssemblyInfo.cs
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\CodingChallenge.dll
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\ref\CodingChallenge.dll
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\CodingChallenge.pdb
+C:\Users\owhitema\CodingChallenge\11a59c85-ae9f-454a-a3c0-7b27fd7cfb35\CodingChallenge\obj\Debug\net5.0\CodingChallenge.genruntimeconfig.cache
