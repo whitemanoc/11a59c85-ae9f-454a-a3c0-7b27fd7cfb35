@@ -32,7 +32,7 @@ namespace CodingChallenge
                     if (largestCount < currentCount)
                     {
                         largestCount = currentCount;
-                        longestSequence = currentSequence;
+                        longestSequence = new List<int>(currentSequence);
                     }
                     currentCount = 0;
                     currentSequence.Clear();
