@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CodingChallengeTest": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

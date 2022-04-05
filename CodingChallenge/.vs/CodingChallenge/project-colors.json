@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa9fbc35-c903-4643-ae84-723dd445ce15": {
+      "ProjectGuid": "aa9fbc35-c903-4643-ae84-723dd445ce15",
+      "DisplayName": "CodingChallengeTest",
+      "ColorIndex": 0
+    },
+    "348ec224-c592-4cdd-a7be-070f98fe6b97": {
+      "ProjectGuid": "348ec224-c592-4cdd-a7be-070f98fe6b97",
+      "DisplayName": "docker-compose",
+      "ColorIndex": 1
+    },
+    "c8519d3f-96f7-4feb-94a6-01298e570d3b": {
+      "ProjectGuid": "c8519d3f-96f7-4feb-94a6-01298e570d3b",
+      "DisplayName": "CodingChallenge",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
